@@ -75,8 +75,8 @@ function draw() {
     }*/
 
     /*if(blueBubbleGroup.collide(bulletGroup)){
-      handleBubbleCollision();*/
-    }
+      handleBubbleCollision();
+    }*/
     
     /*if(blueBubbleGroup.collide()){
       handleBubbleCollision(blueBubbleGroup);
