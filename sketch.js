@@ -127,14 +127,14 @@ function handleBubbleCollision(bubbleGroup){
        score=score+1;
     }
 
-    /* blast= createSprite(bullet.x+60, bullet.y, 50,50);
-    blast.addImage(blastImg) */
+     blast= createSprite(bullet.x+60, bullet.y, 50,50);
+    blast.addImage(blastImg) 
 
     /* blast= sprite(bullet.x+60, bullet.y, 50,50);
     blast.addImage(blastImg) */
 
-     blast= createSprite(bullet.x+60, bullet.y, 50,50);
-    blast.add(blastImg) 
+    /* blast= createSprite(bullet.x+60, bullet.y, 50,50);
+    blast.add(blastImg)*/ 
 
     /* blast= createSprite(bullet.x+60, bullet.y, 50,50);
     image(blastImg) */
